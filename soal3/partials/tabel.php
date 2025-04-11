@@ -2,7 +2,7 @@
     <table>
         <thead>
             <tr>
-                <th>ID</th>
+                <th>No</th>
                 <th>Nama</th>
                 <th>Alamat</th>
                 <th>Hobi</th>
